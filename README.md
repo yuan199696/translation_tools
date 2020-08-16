@@ -1,0 +1,2 @@
+# translation_tools
+一个基于有道翻译以及百度翻译API开发的翻译小工具
